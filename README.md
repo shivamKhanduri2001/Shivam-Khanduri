@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivam Khanduri</h1>
-<h3 align="center">Backend-Focused Developer | Node.js, Express, PostgreSQL | Building Real-World Projects</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Backend+Developer;Node.js+%7C+Express+%7C+PostgreSQL;Building+Real+World+Projects&center=true&width=500&height=50" />
 </p>
-
 ---
 
 ## 🚀 About Me

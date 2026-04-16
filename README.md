@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Backend+Developer;Node.js+%7C+Express+%7C+PostgreSQL;Building+Real+World+Projects&center=true&width=500&height=50" />
 </p>
----
 
 ## 🚀 About Me
 

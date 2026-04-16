@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam khanduri</h1>
 <h3 align="center">Backend-Focused Developer | Node.js, Express, PostgreSQL | Building Real-World Projects</h3>
-
+<img src="https://mberlove.com/blog/wp-content/uploads/2016/07/pshkvsky_gif2code_10_js.gif" alt="Loading..." />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkhanduri2001" alt="shivamkhanduri2001" /></a> </p>
 
 - 🔭 I’m currently working on [Job portal](https://github.com/shivamKhanduri2001/job-portal)

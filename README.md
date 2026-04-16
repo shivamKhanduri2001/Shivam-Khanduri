@@ -2,7 +2,7 @@
 <h3 align="center">Backend-Focused Developer | Node.js, Express, PostgreSQL | Building Real-World Projects</h3>
 
 <p align="center">
-  <img src="https://mberlove.com/blog/wp-content/uploads/2016/07/pshkvsky_gif2code_10_js.gif" width="400" />
+  <img src="https://mberlove.com/blog/wp-content/uploads/2016/07/pshkvsky_gif2code_10_js.gif" width="100" />
 </p>
 
 ---
